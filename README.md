@@ -1,11 +1,11 @@
 ## Hello there, General Kanobi 👋 
 
-### About le moi
+### About ***le moi***
 I am Sivuyile Hans. 
 
 Pronouns: That/Guy 😏 
 
-I am an Aspiring Data Scientist, alongside being a Java & Python Developer. I completed my BSc Computer Science and Informatics degree in 2025, and graduated in May of 2026. 
+I am an Aspiring Data Scientist, alongside being a Java & Python Developer. I completed my BSc Computer Science and Informatics degree in 2025, and graduated in May of 2026. Big car, meme, anime and technology fan. 
 
 🔭 I’m currently working on: An end-to-end business intelligence suite using the Olist dataset from Kaggle - Python - SQL - Power BI
 
@@ -15,11 +15,14 @@ I am an Aspiring Data Scientist, alongside being a Java & Python Developer. I co
 ### Tools I am using/have used actively
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,bash,linux)](https://skillicons.dev)
 
+***(Adding git/github on a github repo. I'm a genius)***
+
+![Funny Pic](https://media.tenor.com/FNcEGDT-jeUAAAAd/spongebob-smirk.gif)
 
 🌱 I’m currently learning data analytics and data science for roles in a corporate environment. My learning involves a commitment to constantly improve my SQL, Excel and Python skills through projects which involve datasets used by businesses in real-world scenarios. 
 
 
-🙏 I am actively looking for an entry-level role in either data science or software developement(for any of my tech stack, but java & python preferably). if you are a recruiter seeing this, I hope you like what you see and that I gave you a bit of a chuckle.
+🙏 I am actively looking for an entry-level role in either data science or software developement (for any of my tech stack, but java & python preferably). if you are a recruiter seeing this, I hope you like what you see and that I gave you a bit of a chuckle.
 
 📫 How to reach me: 
 
