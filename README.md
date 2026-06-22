@@ -2,16 +2,18 @@
 
 I am Sivuyile Hans. 
 
-😄 Pronouns: That/Guy
+Pronouns: That/Guy 😏 
 
 I am an Aspiring Data Scientist, alongside being a Java & Python Developer. I completed my BSc Computer Science and Informatics degree in 2025, and graduated in May of 2026. 
 
 🔭 I’m currently working on:
 
 ### My Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,gradle,c,cpp,cs,dotnet,js,express,nodejs,npm,html,css,react,bootstrap,py&perline=4)](https://skillicons.dev)
+
 
 ### Tools I am using/have used actively
-
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,bash,linux)](https://skillicons.dev)
 
 
 🌱 I’m currently learning data analytics and data science for roles in a corporate environment. My learning involves a commitment to constantly improve my SQL, Excel and Python skills through projects which involve datasets used by businesses in real-world scenarios. 
