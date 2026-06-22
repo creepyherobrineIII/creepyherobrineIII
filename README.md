@@ -1,8 +1,17 @@
 ## Hi there 👋
 
-I am Sivuyile Hans. I am an Aspiring Data Scientist, alongside being a Java & Python Developer. I completed my BSc Computer Science and Informatics degree in 2025, and graduated in May of 2026. 
+I am Sivuyile Hans. 
 
-🔭 I’m currently working on
+😄 Pronouns: That/Guy
+
+I am an Aspiring Data Scientist, alongside being a Java & Python Developer. I completed my BSc Computer Science and Informatics degree in 2025, and graduated in May of 2026. 
+
+🔭 I’m currently working on:
+
+### My Tech Stack
+
+### Tools I am using/have used actively
+
 
 
 🌱 I’m currently learning data analytics and data science for roles in a corporate environment. My learning involves a commitment to constantly improve my SQL, Excel and Python skills through projects which involve datasets used by businesses in real-world scenarios. 
