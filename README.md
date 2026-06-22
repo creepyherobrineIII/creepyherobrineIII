@@ -5,11 +5,13 @@ I am Sivuyile Hans. I am an Aspiring Data Scientist, alongside being a Java & Py
 🔭 I’m currently working on
 
 
-🌱 I’m currently learning
+🌱 I’m currently learning data analytics and data science for roles in a corporate environment. My learning involves a commitment to constantly improve my SQL, Excel and Python skills through projects which involve datasets used by businesses in real-world scenarios. 
+
+🙏 I am actively looking for an entry-level role in either data science or software developement(for any of my tech stack, but java & python preferably). if you are a recruiter seeing this, I hope you like what you see and that I gave you a bit of a chuckle.
 
 📫 How to reach me: 
 
-📧 Email:[sivhans3@gmail.com](sivhans3@gmail.com)
+📧 Email: [sivhans3@gmail.com](sivhans3@gmail.com)
 
 📞 Cell: [+27717873401](+2777873401)
 <!--
