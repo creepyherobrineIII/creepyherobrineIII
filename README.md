@@ -1,6 +1,6 @@
 ## Hello there, General Kanobi 👋 
 
-###About le moi
+### About le moi
 I am Sivuyile Hans. 
 
 Pronouns: That/Guy 😏 
