@@ -1,5 +1,6 @@
-## Hello there, General Kanobi 👋 
+## Hi, I am Sivuyile Hans👋 
 
+***"Good day, or perhaps, good evening"***
 ### About ***le moi***
 I am Sivuyile Hans. 
 
