@@ -7,7 +7,10 @@ Pronouns: That/Guy 😏
 
 I am an Aspiring Data Scientist, alongside being a Java & Python Developer. I completed my BSc Computer Science and Informatics degree in 2025, and graduated in May of 2026. Big car, meme, anime and technology fan. 
 
-🔭 I’m currently working on: An end-to-end business intelligence suite using the Olist dataset from Kaggle - Python - SQL - Power BI
+🔭 I’m currently working on: 
+* An end-to-end business intelligence suite using the Olist dataset from Kaggle - Python - SQL - Power BI
+* UCT Data Science with Python Course
+* FNB App Academy
 
 ### My Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,gradle,c,cpp,cs,dotnet,js,express,nodejs,npm,html,css,react,bootstrap,py&perline=4)](https://skillicons.dev)
