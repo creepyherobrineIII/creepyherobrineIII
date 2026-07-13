@@ -2,7 +2,6 @@
 
 ***"Good day, or perhaps, good evening"***
 ### About ***le moi***
-I am Sivuyile Hans. 
 
 Pronouns: That/Guy 😏 
 
